@@ -1,6 +1,7 @@
 #!/bin/bash
 # 本脚本请在git bash中运行
-# 作者：chenlei
+# 作者：chenlei 2025/03/15
+# 更新时间：2025/03/15
 # 在终端输入 ./push.sh 即可打开脚本
 # 博客：https://blog.hellolei.xin
 
